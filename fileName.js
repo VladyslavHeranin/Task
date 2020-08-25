@@ -1,3 +1,5 @@
+// FIRST
+
 var pathname = "/home/user/dir/file.txt";
 
 function path(pathname) {
@@ -16,3 +18,21 @@ function path(pathname) {
 
 
 path(pathname);
+
+// SECOND
+
+
+var pathname = "/home/user/dir/file.txt";
+
+function path(pathname) {
+  let name = pathname.split("/").pop();
+  let spl = pathname.split("/")
+console.log(name);
+console.log(spl)
+} 
+
+console.log(path(pathname))
+
+
+
+
