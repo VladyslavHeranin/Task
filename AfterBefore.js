@@ -11,4 +11,4 @@ function strin(lock, simb, str) {
     }
 }
 
-strin("before", "Н", str)
+strin("before", "о", str)
