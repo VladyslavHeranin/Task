@@ -1,5 +1,5 @@
 
-var str = 'Астрономия — Наука о небесных телах';
+var str = 'Астрономия — наука о небесных телах';
 
 function strin(lock, simb, str) {
     if (lock === "after") {
