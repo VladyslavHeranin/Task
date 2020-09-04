@@ -25,4 +25,4 @@ function VIPWord(str) {
 }
 
 
-VIPWord('little big')
+VIPWord('littleBig')
