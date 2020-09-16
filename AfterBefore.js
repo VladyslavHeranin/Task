@@ -1,5 +1,5 @@
 
-var str = 'Астрономия — наука о небесных телах';
+var str = 'Java Script';
 
 function strin(lock, simb, str) {
     if (lock === "after") {
