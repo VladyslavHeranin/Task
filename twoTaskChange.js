@@ -2,7 +2,7 @@
 // у задачи есть два решения 
 // first(проверка на "if" это наш элемент значит присваиваю ему новое значение)
 
-function replaceAll(find, replace, str) {
+function replaceAll(find, rep, str) {
     for (let index = 0; index < str.length; index++) {
         if (str[index] === find) {
             str[index] = replace
@@ -15,7 +15,7 @@ function replaceAll(find, replace, str) {
 
 // second(здесь я делаю проверку по индексу)
 
-function replaceAll(find, replace, str) {
+function replaceAll(find, rep, str) {
     for (let i = 0; i < str.length; i++) {
      if (str.indexOf(find) > -1) {
             str = str.replace(find, replace);          
