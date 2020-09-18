@@ -1,4 +1,4 @@
-let num = ["bus", "car", "car", "car", "cow", "bus"];
+let num = ["bus", "car", "car", "car", "cow"];
 
 let obj = {};
 
