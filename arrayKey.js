@@ -1,4 +1,4 @@
-let className = ["pink", "dog", "pink", "dog", "pink", "cat", "pink"];
+let className = ["pink", "dog", "pink", "dog", "pink", "cat"];
 
 let result = {};
 
