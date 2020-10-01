@@ -7,7 +7,7 @@ function strin(lock, simb, str) {
     } if (lock === "before") {
         console.log(str.slice(0, str.indexOf(simb)))
     } else {
-        return str
+        return str;
     }
 }
 
