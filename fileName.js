@@ -31,7 +31,7 @@ console.log(name);
 console.log(spl)
 } 
 
-console.log(path(pathname))
+path(pathname)
 
 
 
